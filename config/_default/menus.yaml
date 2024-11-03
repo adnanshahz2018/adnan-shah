@@ -7,10 +7,10 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
+  - name: Tools
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: Skills
     url: /#talks
     weight: 12
   - name: News
