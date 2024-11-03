@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: Tools
-    url: /#papers
+    url: /#tools
     weight: 11
   - name: Skills
-    url: /#talks
+    url: /#skills
     weight: 12
   - name: News
     url: /#news
@@ -22,6 +22,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: Certifications
+    url: certifications/
     weight: 40
