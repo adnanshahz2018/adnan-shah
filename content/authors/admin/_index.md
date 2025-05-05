@@ -84,11 +84,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Information Security Engineer
+    company_name: CRYPTTECH
+    company_url: 'https://www.crypttech.com/en/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-03-01
     date_end: ''
     summary: |2-
       Responsibilities include:
